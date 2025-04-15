@@ -39,7 +39,6 @@ I'm a curious learner, always exploring new technologies and growing as a develo
 - Digitized manual systems, improving efficiency by **15%**  
 - Led a cross-functional team using **Agile** and **MVC architecture**
 
-### 💻 Frontend Developer  
 **Candlestroke Technologies** | *Feb 2025 – Present*  
 - Built responsive UI features for **Profit11** using MERN stack  
 - Optimized backend APIs and database performance  
