@@ -57,11 +57,11 @@ I'm a curious learner, always exploring new technologies and growing as a develo
 
 ## 📜 Certifications
 
-- ✅ **Linux Certification** – IIT Bombay  
-- ✅ **Industrial Training** – Celest Technologies  
-- ✅ **Sponsored Project** – Chirab Technologies  
-- ✅ **NPTEL Courses** – Python & Japanese Language  
-- ✅ **Cybersecurity Workshop** – Cyber Sanskar
+-  **Linux Certification** – IIT Bombay  
+-  **Industrial Training** – Celest Technologies  
+-  **Sponsored Project** – Chirab Technologies  
+-  **NPTEL Courses** – Python & Japanese Language  
+-  **Cybersecurity Workshop** – Cyber Sanskar
 
 ---
 
@@ -77,8 +77,8 @@ I'm a curious learner, always exploring new technologies and growing as a develo
 
 ## 📫 Let’s Connect!
 
-- 📧 **Email**: vaishnavibarhate2004@gmail.com  
-- 💼 **LinkedIn**: [Vaishnavi Barhate](https://www.linkedin.com/in/vaishnavi-barhate-30385a268/)
+-  **Email**: vaishnavibarhate2004@gmail.com  
+-  **LinkedIn**: [Vaishnavi Barhate](https://www.linkedin.com/in/vaishnavi-barhate-30385a268/)
 
 ---
 
