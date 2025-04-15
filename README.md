@@ -67,8 +67,8 @@ I'm a curious learner, always exploring new technologies and growing as a develo
 
 ## 🏆 Achievements
 
-- 🎯 Finalist – **National AI Hackathon 2025** by Talentfarm.ai  
-- 🛠️ Created 10+ Projects including:  
+-  Finalist – **National AI Hackathon 2025** by Talentfarm.ai  
+-  Created 10+ Projects including:  
   - AI & Blockchain-Based Healthcare Ecosystem  
   - RFID-Integrated Donation Management Platform  
   - Emergency Vehicle Alert System
