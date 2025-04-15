@@ -15,12 +15,12 @@ I'm a curious learner, always exploring new technologies and growing as a develo
 ## 🎓 Education
 
 - **B.E in Computer Engineering** (2023 – 2026)  
-  📍 *Sandip Institute of Technology and Research Centre*  
-  🧮 GPA: **8.3 / 10**
+    *Sandip Institute of Technology and Research Centre*  
+      GPA: **8.3 / 10**
 
 - **Diploma in Information Technology** (2020 – 2023)  
-  📍 *Government Polytechnic Pune*  
-  📊 Percentage: **86%**
+    *Government Polytechnic Pune*  
+      Percentage: **86%**
 
 ### 🔬 Research Projects
 - 🛡️ **Tranam** – ML-Driven Women's Safety System  
@@ -46,16 +46,12 @@ I'm a curious learner, always exploring new technologies and growing as a develo
 
 ---
 
-## 🚀 Tech Skills
-
-### 🧩 Languages & Frameworks
+## 🚀 Skills
 - **Frontend**: HTML5, CSS3, JavaScript, React.js, Angular  
 - **Backend**: Node.js, Express.js, Python, Flask  
-- **Databases**: PostgreSQL, MongoDB, MySQL, Firebase  
+- **Databases**: PostgreSQL, MongoDB, MySQL, Firebase
+- **Others**: Data Structures and Algorithms, Machine Learning 
 - **AI/ML**: Scikit-learn, Pandas, NumPy, TensorFlow (basic), OpenCV  
-
-### 🛠️ Tools & Platforms
-- Git, GitHub, Postman, VS Code, Linux, Figma, Canva
 
 ---
 
