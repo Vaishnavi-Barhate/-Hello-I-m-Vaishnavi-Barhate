@@ -6,7 +6,7 @@
 ## 🧠 About Me
 
 I'm a passionate Computer Engineering student who loves building tech that makes a difference.  
-With a strong foundation in **software development**, **AI**, and **database systems**, I enjoy turning ideas into real-world solutions through clean and scalable code.
+With a strong foundation in **software development**, **Machine Learning**, and **database systems**, I enjoy turning ideas into real-world solutions through clean and scalable code.
 
 I'm a curious learner, always exploring new technologies and growing as a developer. I believe in creating tech that’s not just smart—but also **ethical**, **inclusive**, and **future-ready**.
 
@@ -25,8 +25,6 @@ I'm a curious learner, always exploring new technologies and growing as a develo
 ### 🔬 Research Projects
 - 🛡️ **Tranam** – ML-Driven Women's Safety System  
 - 🍷 **Red Wine Quality Prediction** – ML-based quality analysis  
-
-🎖️ *Hackathon Finalist* | *IEEE Student Member*
 
 ---
 
@@ -47,10 +45,10 @@ I'm a curious learner, always exploring new technologies and growing as a develo
 ---
 
 ## 🚀 Skills
-- **Frontend**: HTML5, CSS3, JavaScript, React.js, Angular  
-- **Backend**: Node.js, Express.js, Python, Flask  
+- **Frontend**: HTML5, CSS3, JavaScript, React.js 
+- **Backend**: Node.js, Express.js, Python, Flask, PHP, Codeigniter, Java   
 - **Databases**: PostgreSQL, MongoDB, MySQL, Firebase
-- **Others**: Data Structures and Algorithms, Machine Learning 
+- **Others**: Data Structures and Algorithms, Machine Learning, Docker, Jenkins 
 - **AI/ML**: Scikit-learn, Pandas, NumPy, TensorFlow (basic), OpenCV  
 
 ---
@@ -61,7 +59,7 @@ I'm a curious learner, always exploring new technologies and growing as a develo
 -  **Industrial Training** – Celest Technologies  
 -  **Sponsored Project** – Chirab Technologies  
 -  **NPTEL Courses** – Python & Japanese Language  
--  **Cybersecurity Workshop** – Cyber Sanskar
+-  **IBM Professional Certification** - Full Stack Developer
 
 ---
 
