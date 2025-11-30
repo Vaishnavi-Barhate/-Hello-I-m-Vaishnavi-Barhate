@@ -16,7 +16,7 @@ I'm a curious learner, always exploring new technologies and growing as a develo
 
 - **B.E in Computer Engineering** (2023 – 2026)  
     *Sandip Institute of Technology and Research Centre*  
-      GPA: **8.3 / 10**
+      GPA: **9 / 10**
 
 - **Diploma in Information Technology** (2020 – 2023)  
     *Government Polytechnic Pune*  
