@@ -22,7 +22,7 @@ I'm a curious learner, always exploring new technologies and growing as a develo
     *Government Polytechnic Pune*  
       Percentage: **86%**
 
-### 🔬 Research Projects
+## 🔬 Projects
 - **Self-Adaptive AI for Task Scheduling in Heterogeneous Computing** - Developed an adaptive AI task scheduler for heterogeneous systems (CPU/GPU/FPGA) using Reinforcement Learning and Deep RL,
 modelling state–action–reward spaces to optimize task placement, minimize makespan latency, maximize throughput and resource
 utilization, and benchmark performance against HEFT, Min-Min, and Round Robin algorithms.
@@ -34,23 +34,30 @@ and, operationalized via RESTful APIs using Node.js+Express, JavaScript, and spe
 
 ## 💼 Experience
 
-- **Defence Research and Development Organisation (DRDO) Gov. of India** | ML Engineer and Research Intern 
-  Project: Aerial Image Restoration and 3D Reconstruction 
+- **Defence Research and Development Organisation (DRDO) Gov. of India** | ML Engineer and Research Intern
+
+  Project: Aerial Image Restoration and 3D Reconstruction
+  
   Tools: Python, MongoDB, OpenCV, PyTorch, MiDaS, Flask, React, Docker
-Developed an offline computer vision pipeline with PSF deblurring + depth estimation with 3D Hallucination.
-Improved result clarity by ~65% and gained hands-on deployment experience using Docker + Flask at HPC Lab.
 
-- **ABB Ltd** | Software Development Intern 
+  Developed an offline computer vision pipeline with PSF deblurring + depth estimation with 3D Hallucination. Improved result clarity by ~65% and gained hands-on deployment experience using Docker + Flask at HPC Lab.
+
+- **ABB Ltd** | Software Development Intern
+
 Automated Bulk and Batch Inventory Management 
-Tools: Spring Boot, Java, Docker, Jenkins, MySQL
-Engineered a scalable maintenance automation system with real-time monitoring, and predictive maintenance, improving production
-efficiency by 15% and reducing unplanned downtime by 30%.
 
-- **Celest Technologies LLP** | Software Development Intern 
-Nippon India Mutual Funds 
-Tools: PHP, Codeigniter, Javascript, HTML5, CSS3
-Developed a secure accounting, taxation, and monetary analytics dashboard for Nippon India Mutual Funds, implementing backend
-business logic, role-based access control, and data validation using PHP and CodeIgniter
+Tools: Spring Boot, Java, Docker, Jenkins, MySQL
+
+Engineered a scalable maintenance automation system with real-time monitoring, and predictive maintenance, improving production efficiency by 15% and reducing unplanned downtime by 30%.
+
+- **Celest Technologies LLP** | Software Development Intern
+  
+Nippon India Mutual Funds
+
+Tools: PHP, Codeigniter, Javascript, HTML5, CSS3 
+
+Developed a secure accounting, taxation, and monetary analytics dashboard for Nippon India Mutual Funds, implementing backend business logic, role-based access control, and data validation using PHP and CodeIgniter.
+
 ---
 
 ## 🚀 Skills
