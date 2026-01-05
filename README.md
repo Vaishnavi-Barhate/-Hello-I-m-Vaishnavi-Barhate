@@ -23,25 +23,34 @@ I'm a curious learner, always exploring new technologies and growing as a develo
       Percentage: **86%**
 
 ### 🔬 Research Projects
-- 🛡️ **Tranam** – ML-Driven Women's Safety System  
-- 🍷 **Red Wine Quality Prediction** – ML-based quality analysis  
+- **Self-Adaptive AI for Task Scheduling in Heterogeneous Computing** - Developed an adaptive AI task scheduler for heterogeneous systems (CPU/GPU/FPGA) using Reinforcement Learning and Deep RL,
+modelling state–action–reward spaces to optimize task placement, minimize makespan latency, maximize throughput and resource
+utilization, and benchmark performance against HEFT, Min-Min, and Round Robin algorithms.
+
+- **TRANAM – Intelligent SOS Alert & Response System for Women** - Implemented a real-time SOS alert and response system for women with secret word-trigger detection, GPS-based location tracking,
+and, operationalized via RESTful APIs using Node.js+Express, JavaScript, and speech recognition services for low-latency incident handling.
 
 ---
 
 ## 💼 Experience
 
-### 💻 Software Development Intern  
-**ABB Ltd** | *Sept 2024 – Feb 2025*  
-- Designed and deployed a PostgreSQL-powered inventory management system  
-- Migrated applications from Python backend to MERN stack  
-- Digitized manual systems, improving efficiency by **15%**  
-- Led a cross-functional team using **Agile** and **MVC architecture**
+- **Defence Research and Development Organisation (DRDO) Gov. of India** | ML Engineer and Research Intern 
+  Project: Aerial Image Restoration and 3D Reconstruction 
+  Tools: Python, MongoDB, OpenCV, PyTorch, MiDaS, Flask, React, Docker
+Developed an offline computer vision pipeline with PSF deblurring + depth estimation with 3D Hallucination.
+Improved result clarity by ~65% and gained hands-on deployment experience using Docker + Flask at HPC Lab.
 
-**Candlestroke Technologies** | *Feb 2025 – Present*  
-- Built responsive UI features for **Profit11** using MERN stack  
-- Optimized backend APIs and database performance  
-- Integrated Redux and REST APIs for seamless state management
+- **ABB Ltd** | Software Development Intern 
+Automated Bulk and Batch Inventory Management 
+Tools: Spring Boot, Java, Docker, Jenkins, MySQL
+Engineered a scalable maintenance automation system with real-time monitoring, and predictive maintenance, improving production
+efficiency by 15% and reducing unplanned downtime by 30%.
 
+- **Celest Technologies LLP** | Software Development Intern 
+Nippon India Mutual Funds 
+Tools: PHP, Codeigniter, Javascript, HTML5, CSS3
+Developed a secure accounting, taxation, and monetary analytics dashboard for Nippon India Mutual Funds, implementing backend
+business logic, role-based access control, and data validation using PHP and CodeIgniter
 ---
 
 ## 🚀 Skills
