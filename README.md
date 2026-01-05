@@ -62,20 +62,21 @@ and, operationalized via RESTful APIs using Node.js+Express, JavaScript, and spe
 
 ## 🚀 Skills
 - **Frontend**: HTML5, CSS3, JavaScript, React.js 
-- **Backend**: Node.js, Express.js, Python, Flask, PHP, Codeigniter, Java   
+- **Backend**: Node.js, Express.js, Python, Flask, PHP, Codeigniter, Java, Spring Boot   
 - **Databases**: PostgreSQL, MongoDB, MySQL, Firebase
 - **Others**: Data Structures and Algorithms, Machine Learning, Docker, Jenkins 
-- **AI/ML**: Scikit-learn, Pandas, NumPy, TensorFlow (basic), OpenCV  
+- **AI/ML**: Scikit-learn, Pandas, NumPy, PyTorch, TensorFlow (basic), OpenCV  
 
 ---
 
 ## 📜 Certifications
 
+-  **IBM Professional Certification** - Full Stack Developer
+-  **Google Machine Learning crash course** - Completed
 -  **Linux Certification** – IIT Bombay  
 -  **Industrial Training** – Celest Technologies  
 -  **Sponsored Project** – Chirab Technologies  
 -  **NPTEL Courses** – Python & Japanese Language  
--  **IBM Professional Certification** - Full Stack Developer
 
 ---
 
