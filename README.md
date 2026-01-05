@@ -44,19 +44,19 @@ and, operationalized via RESTful APIs using Node.js+Express, JavaScript, and spe
 
 - **ABB Ltd** | Software Development Intern
 
-Automated Bulk and Batch Inventory Management 
+  Automated Bulk and Batch Inventory Management
 
-Tools: Spring Boot, Java, Docker, Jenkins, MySQL
+  Tools: Spring Boot, Java, Docker, Jenkins, MySQL
 
-Engineered a scalable maintenance automation system with real-time monitoring, and predictive maintenance, improving production efficiency by 15% and reducing unplanned downtime by 30%.
+  Engineered a scalable maintenance automation system with real-time monitoring, and predictive maintenance, improving production efficiency by 15% and reducing unplanned downtime by 30%.
 
 - **Celest Technologies LLP** | Software Development Intern
-  
-Nippon India Mutual Funds
 
-Tools: PHP, Codeigniter, Javascript, HTML5, CSS3 
+  Nippon India Mutual Funds
 
-Developed a secure accounting, taxation, and monetary analytics dashboard for Nippon India Mutual Funds, implementing backend business logic, role-based access control, and data validation using PHP and CodeIgniter.
+  Tools: PHP, Codeigniter, Javascript, HTML5, CSS3
+
+  Developed a secure accounting, taxation, and monetary analytics dashboard for Nippon India Mutual Funds, implementing backend business logic, role-based access control, and data validation using PHP and CodeIgniter.
 
 ---
 
